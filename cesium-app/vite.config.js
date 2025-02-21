@@ -7,6 +7,7 @@ export default defineConfig({
   },
   server: {
     port: 3010,
+    allowedHosts: "cesium-demo-1.onrender.com"
   },
   plugins: [cesium()],
 });
