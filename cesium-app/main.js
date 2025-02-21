@@ -168,6 +168,7 @@ async function loadGeoJsonManually(layerName) {
               material: Cesium.Color.THISTLE,
               outline: true,
               outlineColor: Cesium.Color.BLACK,
+              extrudedHeight: 100,
             },
             properties,
           });
