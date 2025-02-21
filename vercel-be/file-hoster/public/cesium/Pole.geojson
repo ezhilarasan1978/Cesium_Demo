@@ -1,0 +1,6440 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0732610671117918,
+          52.2011927028341
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73010",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0716463351636507,
+          52.2012580590336
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73012",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0700394320789093,
+          52.201310465183
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73013",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "3",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0684522773130245,
+          52.2013862455666
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73014",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "4",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0668535489928135,
+          52.2014503775035
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73015",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "5",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0652548312424587,
+          52.2015144879695
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73016",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "6",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0636480901446226,
+          52.2015688059628
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73017",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "7",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0620444330522168,
+          52.2016507034917
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73018",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "8",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0604387790103105,
+          52.2017161364612
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73019",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "9",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0588322115169828,
+          52.2017725228248
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73020",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "10",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.057247739670786,
+          52.201835230647
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73021",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "11",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0560671099418936,
+          52.2016272289239
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73022",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0556724220890091,
+          52.2021089339871
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73023",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "6",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0553142849964974,
+          52.2026013109159
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73024",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "5",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0549473488211537,
+          52.2030912398347
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73025",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "4",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0545823128981228,
+          52.2035817024931
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73026",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "5",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0542850190136253,
+          52.204089142546
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73027",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "6",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0540180732168804,
+          52.2046029090035
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73028",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "3",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0537773399602147,
+          52.205121540131
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73029",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0535513174883982,
+          52.2056426703513
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73030",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05333953424665,
+          52.2061660491884
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73031",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "10",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0530725791494846,
+          52.2066798133287
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73032",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0527759422980392,
+          52.2071874042743
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73033",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0524360040949014,
+          52.2076846316586
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73034",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "3",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0564517808789666,
+          52.2011424712084
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73035",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0569146889819731,
+          52.2006842585244
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73036",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "3",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.057489450441402,
+          52.2002766658476
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73037",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "4",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0581828339787536,
+          52.1999460139532
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73038",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "5",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0588506916017364,
+          52.1995960913587
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73039",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "6",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.059280886809389,
+          52.1991260107282
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73040",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "7",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05961958756025,
+          52.198685472547
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73041",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "8",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0600211172040289,
+          52.1982059080992
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73042",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0603946044535199,
+          52.1977178696692
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73043",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0608040831422717,
+          52.1972408520456
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73044",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "3",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.061185818457283,
+          52.1967552216151
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73045",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "4",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0615915275590577,
+          52.1962769973984
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73046",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "5",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0619211099442979,
+          52.1959219494803
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "73047",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "6",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0125259025193025,
+          52.2476976291884
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313462",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "4",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0117907755658328,
+          52.2479930059678
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313463",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "3",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0111051442872368,
+          52.2483302728085
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313464",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0132807815169141,
+          52.247421665835
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313465",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "5",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0140312738140467,
+          52.2471412315641
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313466",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "6",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0147877014069698,
+          52.2468668774904
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313467",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "7",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0155895725047118,
+          52.246646439641
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313468",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "8",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0164598156281538,
+          52.2467206944686
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313469",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "9",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0171018665256221,
+          52.2470888370094
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313470",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "10",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0175721145147894,
+          52.2475443906393
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313471",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "11",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0180276398270785,
+          52.2480055442435
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313472",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "12",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0184760997487013,
+          52.2484692986699
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313473",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "13",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0189404735375927,
+          52.2489271233991
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313474",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "14",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0195197547532192,
+          52.2493326174603
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313475",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "15",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0202735161381514,
+          52.24960975004
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313476",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0211478713677326,
+          52.2496630932955
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313477",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "3",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0220024734093145,
+          52.2495377416634
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313478",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "4",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0227341905780159,
+          52.2492391673727
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313479",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "5",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0234842225353818,
+          52.2489582491308
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313480",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "6",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0242762668043345,
+          52.2487247836946
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313481",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "7",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0251104362257611,
+          52.248555367178
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313482",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "8",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0259669681733192,
+          52.2484351327528
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313483",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "9",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0269080582821839,
+          52.2483809057102
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313484",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "10",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0277716109180479,
+          52.2484804143472
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313485",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "11",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0285609607798816,
+          52.2487172919626
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313486",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "12",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0292512052426218,
+          52.2490509924786
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313487",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "13",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0298793414633341,
+          52.2494963563461
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313488",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "14",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0302171446773055,
+          52.2499942054261
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313489",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "15",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.030374957715005,
+          52.2505247325967
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313490",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "16",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0303302465733053,
+          52.251063328872
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313491",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "17",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0300715849486987,
+          52.2515787281264
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313492",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0296809312717809,
+          52.2520617957851
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313493",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0292410791367902,
+          52.2525286683163
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313494",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "3",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0287668458008654,
+          52.2529826872393
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313495",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "4",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0282024442606698,
+          52.2533960368624
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313496",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "5",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0275372950548714,
+          52.2537484682234
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313497",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "6",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0268062868756272,
+          52.2540477609827
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313498",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "7",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0260758496824388,
+          52.254347578838
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313499",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "8",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0252821601763601,
+          52.2545790695787
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313500",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0244616285437391,
+          52.2547721167222
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313501",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0236457129359201,
+          52.2549724162802
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313502",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0228259563402718,
+          52.2551667064931
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313508",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0219462924205792,
+          52.2551595218598
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313509",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0211301057479237,
+          52.2553594128841
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313510",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0203575485440794,
+          52.2556164496651
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313511",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.019524619286549,
+          52.2557883907697
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313512",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0187258670631425,
+          52.2560132606297
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313513",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0179124190063926,
+          52.2562173264498
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313514",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0170447162171243,
+          52.2563027408586
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313515",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.016235198912459,
+          52.2560928719948
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313516",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0156566301623826,
+          52.2556869540545
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313517",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0151834193060121,
+          52.2552325225361
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313518",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0147648968166486,
+          52.2547583180071
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313519",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0143164673522922,
+          52.2542945222886
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313520",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0138719826638793,
+          52.2538292998384
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313521",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0134272914229318,
+          52.2533641601907
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313522",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0129762383720335,
+          52.2529013303649
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313523",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0125369871492769,
+          52.2524342513374
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313524",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.012209661010125,
+          52.2519337646764
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313525",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0120153472814899,
+          52.2514078202782
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "1.33088982105255",
+        "id": "313526",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0116930776906369,
+          52.2509061040487
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313527",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0111966679162034,
+          52.2504611158733
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313528",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0107327457377525,
+          52.2500031186446
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313529",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0102951043350747,
+          52.2495354734673
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313530",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0102480682153925,
+          52.2491294141388
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313531",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0105720533739621,
+          52.2486731020794
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "313532",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0543492472814175,
+          52.2058674688439
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "651041",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "GE West",
+        "Asset ID": "unset",
+        "Date Installed": "08/03/2022",
+        "Material": "unset",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0552151257192083,
+          52.2059560955416
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "651042",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "GE West",
+        "Asset ID": "unset",
+        "Date Installed": "08/03/2022",
+        "Material": "unset",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05602437087124,
+          52.2061650637508
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "651043",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "GE West",
+        "Asset ID": "unset",
+        "Date Installed": "08/03/2022",
+        "Material": "unset",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876713696970809,
+          51.6522086205364
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654490",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole # 1",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876511450070805,
+          51.6521187172961
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654491",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #2",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876497796760821,
+          51.6519567278132
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654492",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #3",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876483628981887,
+          51.651788437131
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654493",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #4",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876467149926709,
+          51.6515927713214
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654494",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #5",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876452261501723,
+          51.6514160618973
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654495",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #6",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876437193472313,
+          51.6512371983041
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654496",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #7",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876423384602953,
+          51.6510731979478
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654497",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #8",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876403348040299,
+          51.650835257452
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654498",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #9",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876384365172118,
+          51.6506098467793
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654499",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #10",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876365073083217,
+          51.6503809180189
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654500",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #11",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876343930776184,
+          51.6501298373425
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654501",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #12",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.87632436032235,
+          51.6498974167097
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654502",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #13",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876307501103726,
+          51.6496973171047
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654503",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #14",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876274084193816,
+          51.6495300557033
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654504",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #15",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876639456083815,
+          51.649529843593
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654505",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #16",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.877095218145161,
+          51.6495143013729
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654506",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #17",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8774886672352,
+          51.6495133983603
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654507",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #18",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.877973189071676,
+          51.6495122845869
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654508",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #19",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.878416149629152,
+          51.649511261686
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654509",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #20",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.87880341149466,
+          51.6495103710864
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654510",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #21",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.87920337989181,
+          51.6495094463217
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654511",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #22",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.879597305575802,
+          51.649508533535
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654512",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #23",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.879575777782267,
+          51.6497375999916
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654513",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #24",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.879551452089508,
+          51.6499966672061
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654514",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #25",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.879553394176795,
+          51.6502714321121
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654515",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #26",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.879555195097716,
+          51.6505248036771
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654516",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #27",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.879591387837436,
+          51.6507600719339
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654517",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #28",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.879624166376372,
+          51.6509731727142
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654518",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #29",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.87966037492745,
+          51.651208449547
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654519",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #30",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.879604468837877,
+          51.6514460312954
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654520",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #31",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.879677538502632,
+          51.6516759157411
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654521",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #32",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.879714630527893,
+          51.6519285383309
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654522",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #33",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.879740829790977,
+          51.652106930634
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654523",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #34",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.879508210601025,
+          51.6522807180418
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "654524",
+        "Status": "Existing",
+        "Usage": "unset",
+        "Number": "unset",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "Pole #35",
+        "Date Installed": "unset",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "35 Feet",
+        "Frame Type": "unset",
+        "Class": "5",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "Unknown",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.015063847977738,
+          52.2545441564116
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "665570",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0157138811060468,
+          52.2542421025797
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "665571",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "3",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0165018437146015,
+          52.2538455592115
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "665572",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0172356398503613,
+          52.2534741869354
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "665573",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "3",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0178856428827511,
+          52.2531721303816
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "665574",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "4",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0162275414162603,
+          52.2545921748534
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "665575",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0166857218158608,
+          52.2549383371545
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "665576",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "7",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0125784307342646,
+          52.2512465481359
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687213",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.012823010273663,
+          52.2515913672552
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687214",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0130602921130088,
+          52.2518590259187
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687215",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0130979976056489,
+          52.2510901246385
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687216",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.013456234551306,
+          52.2508263731939
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687217",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0139354475764344,
+          52.251408347563
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687218",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0145193202174783,
+          52.2512954199544
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687219",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0139696560667618,
+          52.2506185276573
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687220",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "07/02/1974",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0134791086671265,
+          52.249814136996
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687222",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Steel",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0128192091830015,
+          52.2499893472848
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687223",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Wood",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0146623842440469,
+          52.2502413166079
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687224",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Unknown",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0143726734471233,
+          52.2496583594351
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687225",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0151332425080967,
+          52.2507790183665
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687226",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Concrete",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0126401925952247,
+          52.2509246052376
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687227",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "3",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "11/07/1966",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0123493270813717,
+          52.2505688674858
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687228",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Aluminium",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0119681032707509,
+          52.2506620285185
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "0.00000000000000",
+        "id": "687229",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "1",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "24/07/2013",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0119245928000459,
+          52.2514546047591
+        ]
+      },
+      "properties": {
+        "feature_internal_name": "ed_pole",
+        "feature_external_name": "Pole",
+        "geometry_orientation": "2.47073054313660",
+        "id": "1180950",
+        "Status": "Existing",
+        "Usage": "Primary",
+        "Number": "2",
+        "Owner Type": "Company Owned",
+        "Owner Name": "Electric Utility",
+        "Asset ID": "unset",
+        "Date Installed": "13/11/2010",
+        "Material": "Fiberglass",
+        "Location Description": "unset",
+        "Remarks": "unset",
+        "Pole Structure": "unset",
+        "Type": "unset",
+        "Height": "25 Feet",
+        "Frame Type": "unset",
+        "Class": "0",
+        "Treatment": "Creosote",
+        "Reinforcement Type": "unset",
+        "Receptacle": "unset",
+        "Reduced Level": "unset",
+        "Strength": "",
+        "Depth": "unset",
+        "Date Manufactured": "unset",
+        "Date Removed": "unset"
+      }
+    }
+  ]
+}

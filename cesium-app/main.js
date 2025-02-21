@@ -105,7 +105,7 @@ function formatDescription(properties) {
 }
 async function loadGeoJsonManually(layerName) {
   try {
-    const url = `http://localhost:5001/cesium/${layerName}.geojson`;
+    const url = `https://cesium-demo.onrender.com/cesium/${layerName}.geojson`;
     const response = await fetch(url);
     const geojson = await response.json();
     geojson.features.forEach((feature) => {
