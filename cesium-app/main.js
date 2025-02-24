@@ -140,11 +140,11 @@ async function loadGeoJsonManually(layerName) {
           entity = viewer.entities.add({
             polyline: {
               positions: coordinates.map((coord) =>
-                Cesium.Cartesian3.fromDegrees(...coord)
+                Cesium.Cartesian3.fromDegrees(...coord,120)
               ),
               width: 3,
               material: style[layerName],
-              clampToGround: true,
+              // clampToGround: true,
             },
             // polylineVolume: {
             //   positions: coordinates.map((coord) =>
